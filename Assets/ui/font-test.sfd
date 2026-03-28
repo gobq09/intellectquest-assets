@@ -1,0 +1,120 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2026, ghapi
+UComments: "2026-3-28: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 59 1173695188 18756]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1774692829
+ModificationTime: 1774693822
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 16 16 4
+BeginChars: 256 4
+
+StartChar: zero
+Encoding: 48 48 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 517 0 800 12.5 12.5
+M,6r;%14!\!!!!.8Ou6I!!!!q!!!!q#R18/!0.Z^XT/>%bXk2g<-SH2gTaJ,0arc`#@[ZkTP+:-
+kh1Iq5h*?$I:XpX`CG46.";_-/.*F/ILnaE!<`s!!!*365QHAi!\_"n4Iu6:rqUnE5HTA6I#ZqC
+p%2+_`<$%Z7`Pi9O$)qVJ?dM,@cZMHs.[ZO38Q&cllJ',?iV6"!uM=JlMq,Sd5$67:p>C[Lf=RJ
+p<gWpL9dTWQ&:\)BOIf;!0rG(!GGl?dPhn9A_DX.^/+-u$l3u?b32*e@UoHW=K3'#V.*s8)Ha#H
+I>H['\CF$F1-2Wf%j6BkJ`:i6YR&lF7'b^Frc6*J<HV6XM[i_$%3ku%^f%!/.MX01d(iPUV'.Ve
+E3"n-ZgQd@#A3'VFT?;eZ8$l4WD+C`)jkGH)C!j%\f^?Q)I@Mn[L5!9!,c2M0n<E+9c\a'Qu%.]
+Lh&`I]<6L*WUHSaQ&:\)BOIf;!0rG(!GGl?dOR[QrT0,hi72.VOf=9L/BS&#?r<T,SIR1P[f;u@
+e>&WV8k#pp3uthmGQE>df2<(96K/.KH<s6eq[cn*fE@IJ1Gpl9<Tl]E@UoHW=K3'#V.*s8)H`4J
+J,fWV+FjFn#U"Wt!m`%Z#:W;&K!?N;JH,ZM!(fUS7'8jaJcGcN
+EndImage2
+EndChar
+
+StartChar: one
+Encoding: 49 49 1
+Width: 1000
+LayerCount: 2
+Back
+Image2: image/png 471 0 800 12.5 12.5
+M,6r;%14!\!!!!.8Ou6I!!!!q!!!!q#R18/!0.Z^XT/>%Sk2=9<-SH2gd+O90bd%'YIFRVi8":7
+`OS'L#E&-MTSbuIjZ9KGVUO]m#jHo$LOTXZTR[(N.%l(l$7MR_DLn_A%r@m4pA4cZh"1@7ETCDs
+PJu4C"U(?4U+6:79QNe@fd=<$'"'W_dLB^8Eh^T6JJ$@9&ob:9Xp>k!bp<C'S*8#"9nYD53_`F(
+HF$<l-ZBZ$5QMZ)(2nBu(BKS6,.(c0^<;YnS\R[;!<l^B=M3Gr>Qd0tM9rhP5BY>ASNp(%1'%b6
+WX;9H74)Dn7FeFs&R$;g2k=EJ5l-1l9Y^^fWWJ>UOU5,t;,okZ.5Co3/?0%J.Rb[lJONQ>8YsLg
+SOEJ:V^le1!_K60">$dU.Nk])R=GGV<KCu@Zl$r'qK,0lErnq0a94&uW%&ph'UaIT(0(M`Pp-mG
+^nRiZUf(_)(0FNNOAq*Rb=Ud0I(CM'-]h;b9Y^^fWWJ>UOU5,t;>&#F$DE1OB'EoKdjHaqE;DH0
+>egncWX1Z,KXlUVPViUY:d>$b'Mq$q"Vaek*e>D8DAtN3UtqdG!!!!j78?7R6=>BF
+EndImage2
+EndChar
+
+StartChar: two
+Encoding: 50 50 2
+Width: 1000
+LayerCount: 2
+Back
+Image2: image/png 493 0 800 12.5 12.5
+M,6r;%14!\!!!!.8Ou6I!!!!q!!!!q#R18/!0.Z^XT/>%Zq3YO<-SH2fKjDl5S-=\LiS%$J:6j8
+(A?N+2[J)_<,HcWb]n_'3u:&)GgiBu/f.h"+FjFn#U"Wt!XKp!^heSfll5BKn+QGQ]D'&:hW*eu
+o'c>3DMn:m!.\8aq[,TXCqB\_XbV>tnfQP"7n4)Kl98^,oO+?p7q)!-5SIrb#B1A3Y5pJr`q%G1
+=RB;jkas__PRSY3</_5N"&"m\W)S]a5QaZE/i?&H^egM,.AI!_df9rp:`s"<#DRc,rLMKpGOj6<
+@jo`Uh30DT!%_Nh0n<Q/U(4s?VAh2],a&RpmMA'uNXcId!<b(j#aa"k+lJS4OVu&F``%YuV?<*@
+OTB-'WDW_]MNIpQ@&_SlLWDOf$jB0,.MX01d(iPU!%J^."44h]V9oiG#0'eA%LOB$keKUTD_6J>
+L'$=S3\U\!D2>-=s2VrB#HEtE1&qb7<=5Bs0er_</60:2&5aBGfh0/:%TFfdA,mNMWY@^p@UoHW
+=K41r,3f9B=n5WrpDu,F%3=(aNM6ou!i?n=fTdrO!%_N6&O6<s";!fu!<`s!!.f7rShmf+G#G;0
+>6"X'!(fUS7'8jaJcGcN
+EndImage2
+EndChar
+
+StartChar: three
+Encoding: 51 51 3
+Width: 1000
+LayerCount: 2
+Back
+Image2: image/png 509 0 800 12.5 12.5
+M,6r;%14!\!!!!.8Ou6I!!!!q!!!!q#R18/!0.Z^XT/>%`(<?_<-SH2fg/450bB&t;*9@fE:<bO
+inbW!!sN+Zo`sc)AWg)C2bNUL3hJiu*cF!P'Mq$q"Vacu!<j065_7Ge:THEJpNq78s%_2$o:KA3
+%mStCI5AX1'+jZ'gTaAdKAtYs!hOHp<^$AD4a&=Qcl![S?iM(54]q'dWr*tehuKWX(9f8Ga9ahV
+WKpnk_-OV:V8$I>Ob"ND.R?eE!/mQQP"JOa0YjFHV1qN`@*h2_ea1)K]RU&A"e*X%^aA!9L.Ltg
+]A>U4q<U@E$#0MG=;2L3<.^Qh!>\-(p&@E\]\1qge5ek0^]9:e!g6/P'/74rkb!59TnBE`(ppIe
+81Ho"^]9:e!g6/P'/74rkb[-(kQ*ae?*+qpFs-b6Jsq2j(.ABPQ(TI3J47lM6\I)jfp=_d6&1rC
+0C<0QP"JOa0YjE]J><h-":VL_]&_m&](E$>4KYH4m&J`i9mHaCC^N"cgOW)7l#.d<4M(e`F\pIA
+=)2te<GIU/Du`fg$WrZ4j9-I<<6Iph#X-Du_6RNXcoLGX;@.(>#$;QSOAph#J,ts5"Vacu!<j06
+5QM$&:uE5n5GV+0Hl5\jSH&Wi!(fUS7'8jaJcGcN
+EndImage2
+EndChar
+EndChars
+EndSplineFont
